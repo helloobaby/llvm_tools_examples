@@ -1,0 +1,1 @@
+ clang -emit-llvm  -S -c .\SSA.cpp -O0
