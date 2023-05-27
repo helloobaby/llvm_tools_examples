@@ -1,0 +1,1 @@
+llc main.ll -x86-asm-syntax=intel --march=x86 
